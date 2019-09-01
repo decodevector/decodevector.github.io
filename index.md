@@ -20,26 +20,26 @@ To be able to help you with starting TCS, it is essential that you come with the
 ## Elementary Mathematics
 
 Number Sense and Numeration/Arithmetic
-*Fractions and Decimals
-*Place Value
-*Addition and Subtraction
-*Counting
-*Representing and Ordering numbers
-*Ratio and Proportions
-*Negative numbers
-*Exponents and Radicals
-*Rational Numbers
+* Fractions and Decimals
+* Place Value
+* Addition and Subtraction
+* Counting
+* Representing and Ordering numbers
+* Ratio and Proportions
+* Negative numbers
+* Exponents and Radicals
+* Rational Numbers
 Measurement
-*Standard and non-standard units of Measurement
-*Comparing objects using measurable attributes
+* Standard and non-standard units of Measurement
+* Comparing objects using measurable attributes
 Geometry & Spatial Sense
-*Primitive 1D, 2D and 3D Geometry
-*Compass and Straightedge
-*Congruence and Similarity
-*Slopes and Trigonometry
+* Primitive 1D, 2D and 3D Geometry
+* Compass and Straightedge
+* Congruence and Similarity
+* Slopes and Trigonometry
 Patterning & Algebra
-*Patterns, relations and functions
-*Linear equations with one and two variables
-*Quadratic equations
-*Exponential and logarithmic equations
-*Radical equations
+* Patterns, relations and functions
+* Linear equations with one and two variables
+* Quadratic equations
+* Exponential and logarithmic equations
+* Radical equations
